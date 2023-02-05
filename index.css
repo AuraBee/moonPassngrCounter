@@ -15,7 +15,7 @@ body {
 
 h1, h2, h3, h4, h5  {
     margin-top: 1rem;
-}
+    }
 
 h1 {
     margin-bottom: 10px;
@@ -23,11 +23,12 @@ h1 {
     font-size: 6rem;
     text-shadow: 0 0 3px ivory;
     font-weight: lighter;
-}
+    }
 
 span {
     font-weight:900;
-}
+    }
+
 h3 {
     font-weight: lighter;
     }
@@ -47,6 +48,7 @@ h2 {
 .main-el {
     font-size: 300%;
     }
+
 .sub-mainTitle {
     margin: 5px;
     padding: 5px;
@@ -92,8 +94,7 @@ button {
     }
 
 #increment-btn {
-     background: linear-gradient(to left, darkblue, darkmagenta); 
-    
+    background: linear-gradient(to left, darkblue, darkmagenta); 
     margin: 20px 0 10px;
     font-size: larger;
     font-weight: lighter;
@@ -101,7 +102,8 @@ button {
 
 #increment-btn:hover {
     background-image: linear-gradient(to right, purple, cornflowerblue , darkblue); 
-}
+    }
+
 #save-btn {
     background-image: linear-gradient(to right, lightgreen, darkgreen); 
     font-size: larger;
@@ -121,7 +123,7 @@ button {
     }
     
 #reset-btn:hover {
-      background: linear-gradient(to left, darkblue, darkgreen); 
+    background: linear-gradient(to left, darkblue, darkgreen); 
     }
 
 .previous-el {
